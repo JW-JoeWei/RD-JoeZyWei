@@ -1,0 +1,24 @@
+{
+  "site": "RD-JoeZyWei",
+  "url": "https://jw-joewei.github.io/RD-JoeZyWei/",
+  "cats": [
+    "Server industry",
+    "Job opportunity",
+    "Industry events"
+  ],
+  "updated": "2026-10-16",
+  "reports": [
+    {
+      "date": "2026-10-16",
+      "title": "台灣 Signal Integrity 職缺總覽 2026-10-16",
+      "summary": "2026-10-16 抓取 104、LinkedIn、公司官網、levels.fyi、Indeed、Cake、Yourator、Glassdoor 的台灣 SI / SI-PI / 高速訊號職缺 1,311 筆：外商／台商分類、產業類型、縣市與 Google 地圖、完整 JD 原文、重點與評論、北台灣據點地圖。",
+      "tags": [
+        "SI",
+        "職缺",
+        "市場研究"
+      ],
+      "format": "html",
+      "href": "reports/2026-10-16_taiwan-si-jobs/"
+    }
+  ]
+}
